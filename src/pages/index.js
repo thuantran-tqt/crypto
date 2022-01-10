@@ -8,11 +8,12 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Mục đích của Crypto Blog</>,
+    title: <>Mục đích của Crypto Hunter Blog</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Crypto Blog là nơi mình viết về những bài học, trải nghiệm đầu tư trong thị trường Crypto. Xa hơn là một thư viện nơi mình tổng hợp các kiến thức sau một thời gian đầu tư và tham gia vào thị trường Crypto.
+        Crypto Blog là nơi mình viết về những bài học, trải nghiệm đầu tư trong thị trường Crypto. 
+        Xa hơn là một thư viện nơi mình tổng hợp các kiến thức sau một thời gian đầu tư và tham gia vào thị trường Crypto.
       </>
     ),
   },
@@ -22,7 +23,8 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-       ...
+        Chia sẻ những trải nghiệm từ sợ hãi tột độ đến tham lam, phấn khích cùng những bài học 
+        mình rút ra được trong quá trình đầu tư Crypto.
       </>
     ),
   },
@@ -32,7 +34,9 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>  
-        ...       
+        Mình rất hoan nghênh và chào mừng các anh, chị, em - những người mới tham gia đến 
+        những anh, chị, em đầu tư chuyên nghiệp để cùng chia sẻ những trải nghiệm, bài học, 
+        thăng trầm trong hành trình đầu tư Crypto.       
       </>
     ),
   },

@@ -32,26 +32,26 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Documentation',
+          title: 'Chuyên mục',
           items: [
             {
-              label: 'Trải nghiệm đầu tư',
+              label: 'Bài học đầu tư',
               to: 'docs/doc1',
             },
 
             {
-              label: 'Bài học đầu tư',
+              label: 'Kiến thức',
               to: 'docs/js-overview',
             },
 
             {
-              label: 'Phân tích',
+              label: 'Phân tích dữ liệu',
               to: 'docs/git-blog',
             },
           ],
         },
         {
-          title: 'Contact',
+          title: 'Liên hệ',
           items: [
             {
               label: 'Twitter',
@@ -72,7 +72,7 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Cộng đồng đầu tư',
           items: [
             {
               label: "Bao's Invest",
