@@ -3,7 +3,7 @@ module.exports = {
   tagline: 'From Zero to Hero on Crypto Journey Investment',
   url: 'https://crypto/xstarseed.com',
   baseUrl: '/',
-  favicon: 'img/favicon-btc.png',
+  favicon: 'img/favicon-btc-1.png',
   organizationName: 'edwardtran97', // Usually your GitHub org/user name.
   projectName: 'crypto', // Usually your repo name.
   themeConfig: {
@@ -17,10 +17,14 @@ module.exports = {
         {
           to: 'docs/doc1',
           activeBasePath: 'docs',
-          label: 'Documentation',
+          label: 'Dữ liệu',
           position: 'left',
         },
-        { to: 'blog', label: 'Blog', position: 'left' },
+        { 
+          to: 'blog', 
+          label: 'Bài viết', 
+          position: 'left' 
+        },
         {
           href: 'https://github.com/edwardtran97/crypto',
           label: 'GitHub',
