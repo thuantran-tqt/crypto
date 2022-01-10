@@ -11,7 +11,7 @@ module.exports = {
       title: 'CRYPTO HUNTER BLOG',
       logo: {
         alt: 'Crypto Blog logo',
-        src: 'img/logo-1.jpg',
+        src: 'img/favicon-btc-1.png',
       },
       links: [
         {
