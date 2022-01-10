@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Edward Tran's Crypto Blog",
+  title: "Crypto Hunter Blog",
   tagline: 'From Zero to Hero on Crypto Journey Investment',
   url: 'https://crypto/xstarseed.com',
   baseUrl: '/',
