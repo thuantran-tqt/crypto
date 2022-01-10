@@ -69,10 +69,6 @@ module.exports = {
               label: 'Facebook',
               href: 'https://www.facebook.com/edwardtran97/',
             },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/edwardtran97',
-            },
           ],
         },
         {

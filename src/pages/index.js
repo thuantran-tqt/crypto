@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Crypto Blog là nơi mình viết về những bài học, trải nghiệm đầu tư trong thị trường Crypto. 
+        Crypto Hunter Blog là nơi mình viết về những bài học, trải nghiệm đầu tư trong thị trường Crypto. 
         Xa hơn là một thư viện nơi mình tổng hợp các kiến thức sau một thời gian đầu tư và tham gia vào thị trường Crypto.
       </>
     ),
@@ -63,7 +63,7 @@ function Home() {
   return (
     <Layout
       title={`Homepage`}
-      description="Edward Tran's Front-end Blog about Front-end topics, included: HTML5, CSS3, Responsive, Boostrap, SCSS, Git, JavaScript, ReactJS and many things ...">
+      description="Crypto Hunter Blog - tập hợp những bài học, trải nghiệm và kiến thức về đầu tư Crypto">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
