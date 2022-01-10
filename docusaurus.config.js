@@ -1,9 +1,9 @@
 module.exports = {
   title: "Edward Tran's Crypto Blog",
   tagline: 'From Zero to Hero on Crypto Journey Investment',
-  url: 'https://azfrontend.vercel.app/',
+  url: 'https://crypto/xstarseed.com',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon-btc.png',
   organizationName: 'edwardtran97', // Usually your GitHub org/user name.
   projectName: 'crypto', // Usually your repo name.
   themeConfig: {
