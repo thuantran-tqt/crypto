@@ -1,7 +1,7 @@
 module.exports = {
   someSidebar: {
-    'HTML & CSS': ['doc1'],
-    'Javascript': ['js-overview'],
-    'Git': ['git-blog'],
+    'Nhật ký đầu tư': ['doc1'],
+    'Bài học đầu tư': ['js-overview'],
+    'Phân tích': ['git-blog'],
   },
 };
