@@ -8,7 +8,7 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Mục đích</>,
+    title: <>Mục đích của Crypto Blog</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
