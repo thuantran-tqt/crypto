@@ -54,8 +54,8 @@ module.exports = {
           title: 'Contact',
           items: [
             {
-              label: 'GitHub',
-              href: 'https://github.com/edwardtran97',
+              label: 'Twitter',
+              href: 'https://twitter.com/edwardtran0902',
             },
             {
               label: 'Telegram',
@@ -66,8 +66,8 @@ module.exports = {
               href: 'https://www.facebook.com/edwardtran97/',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/edwardtran0902',
+              label: 'GitHub',
+              href: 'https://github.com/edwardtran97',
             },
           ],
         },
