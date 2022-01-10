@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'Edward Tran Front-end Blog',
-  tagline: 'From Zero to Hero on Front-end Career Path',
+  title: "Edward Tran's Crypto Blog",
+  tagline: 'From Zero to Hero on Crypto Journey Investment',
   url: 'https://azfrontend.vercel.app/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'edwardtran97', // Usually your GitHub org/user name.
-  projectName: 'frontend-blog', // Usually your repo name.
+  projectName: 'crypto', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'EDWARD TRAN',
+      title: 'CRYPTO BLOG',
       logo: {
-        alt: 'Edward Tran logo',
+        alt: 'Crypto Blog logo',
         src: 'img/logo.svg',
       },
       links: [
@@ -22,7 +22,7 @@ module.exports = {
         },
         { to: 'blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/edwardtran97/frontend-blog',
+          href: 'https://github.com/edwardtran97/crypto',
           label: 'GitHub',
           position: 'right',
         },
@@ -35,17 +35,17 @@ module.exports = {
           title: 'Documentation',
           items: [
             {
-              label: 'HTML & CSS',
+              label: 'Trải nghiệm đầu tư',
               to: 'docs/doc1',
             },
 
             {
-              label: 'Javascript',
+              label: 'Bài học đầu tư',
               to: 'docs/js-overview',
             },
 
             {
-              label: 'Git',
+              label: 'Phân tích',
               to: 'docs/git-blog',
             },
           ],
@@ -59,24 +59,28 @@ module.exports = {
             },
             {
               label: 'Telegram',
-              href: 'https://t.me/edwardtran97',
+              href: 'https://t.me/edwardtran0902',
             },
             {
               label: 'Facebook',
               href: 'https://www.facebook.com/edwardtran97/',
             },
+            {
+              label: 'Twitter',
+              href: 'https://twitter.com/edwardtran0902',
+            },
           ],
         },
         {
-          title: 'Developers Community',
+          title: 'Community',
           items: [
             {
-              label: 'Easy Frontend',
-              href: 'https://www.ezfrontend.com/',
+              label: "Bao's Invest",
+              href: 'https://t.me/BAO_Invest',
             },
             {
-              label: 'Evondev',
-              href: 'https://evondev.com/',
+              label: 'Thuan Capital',
+              href: 'https://t.me/ThuanCapital',
             },
           ],
         },

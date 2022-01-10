@@ -22,7 +22,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Mình là một người bắt đầu từ con số 0 trong lĩnh vực Front-end. Mình tin rằng Blog này có thể giúp các bạn bắt đầu từ con số 0 như mình có thể tìm được định hướng đúng để phát triển sự nghiệp trong lĩnh vực lập trình.
+       ...
       </>
     ),
   },
@@ -31,8 +31,8 @@ const features = [
     title: <>Xây dựng cộng đồng</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
-      <>
-        Vì mục đích chính của Blog này là tổng hợp những kiến thức mình đã học nên mình không có dự định share rộng rãi cho nhiều người. Các bạn có vô tình xem được ở đâu đó thì hãy xem đó như một tài liệu tham khảo mà thôi.
+      <>  
+        ...       
       </>
     ),
   },
