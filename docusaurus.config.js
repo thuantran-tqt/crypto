@@ -8,10 +8,10 @@ module.exports = {
   projectName: 'crypto', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'CRYPTO BLOG',
+      title: 'CRYPTO HUNTER BLOG',
       logo: {
         alt: 'Crypto Blog logo',
-        src: 'img/logo.svg',
+        src: 'img/logo-1.jpg',
       },
       links: [
         {
