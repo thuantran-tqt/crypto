@@ -15,7 +15,7 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/doc1',
+          to: 'docs/js-overview.md',
           activeBasePath: 'docs',
           label: 'Tư liệu',
           position: 'left',
@@ -39,8 +39,8 @@ module.exports = {
           title: 'Chuyên mục',
           items: [
             {
-              label: 'Bài học đầu tư',
-              to: 'docs/doc1',
+              label: 'Nhật ký đầu tư',
+              to: 'docs/nhat-ky-dau-tu-01122021',
             },
 
             {
