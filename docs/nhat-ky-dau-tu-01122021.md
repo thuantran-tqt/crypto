@@ -1,13 +1,7 @@
 ---
 id: nhat-ky-dau-tu-01122021
 title: Nhật ký đầu tư 01/12/2021
-author: Thuan Tran | Edward Tran
-author_title: Crypto Hunter Blog
-author_url: https://twitter.com/edwardtran0902
-author_image_url: https://avatars3.githubusercontent.com/u/48429108?s=400&u=7b406ca007c3297cb08b14247ee8cba58aaf8451&v=4
-tags: [bitcoin, crypto, nhật ký đầu tư]
-description: Nhật ký đầu tư 01/12/2021
-image: img/invest-journey-thumnail.jpeg
+sidebar_label: Nhật ký đầu tư
 ---
 
 1. Trở lại với Crypto
