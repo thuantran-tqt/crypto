@@ -4,11 +4,11 @@ module.exports = {
     [
       'git-blog',
       'nhat-ky-dau-tu-01122021',
+      'nhat-ky-dau-tu-06122021',
     ],
     'Kiến thức': 
     [
-      'js-overview',
-      'nhat-ky-dau-tu-01122021',
+      'js-overview',,
     ],
     'Phân tích': 
     [
