@@ -85,7 +85,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Edward Tran. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Crypto Hunter Blog. Built with Docusaurus.`,
     },
   },
   presets: [

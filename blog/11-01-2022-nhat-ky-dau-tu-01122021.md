@@ -1,0 +1,40 @@
+---
+id: nhat-ky-dau-tu-01122021
+title: Nhật ký đầu tư 01/12/2021
+author: Thuan Tran | Edward Tran
+author_title: Crypto Hunter Blog
+author_url: https://twitter.com/edwardtran0902
+author_image_url: https://avatars3.githubusercontent.com/u/48429108?s=400&u=7b406ca007c3297cb08b14247ee8cba58aaf8451&v=4
+tags: [bitcoin, crypto, nhật ký đầu tư]
+description: Nhật ký đầu tư 01/12/2021
+image: img/invest-journey-thumnail.jpeg
+---
+
+1. Trở lại với Crypto
+
+2. Bài học từ ENS
+
+<!--truncate-->
+
+## 1. Trở lại với Crypto
+
+Hôm nay là ngày 01/12, mình đã khép lại tháng 11 với kết quả thu nhập cao nhất trong suốt 24 năm cuộc
+đời của mình (vượt tháng 10), tăng trưởng hơn 4 lần so với tháng 10. Kết quả này đạt được là do mình nhận được Airdrop từ dự án Ethereum Name Service (ENS) với 2 tên miền .eth đã mua hồi 2018 vào ngày 09/11. Tuy nhiên khá tiếc là mình có thể hoàn toàn chốt ở mức x2, thậm chí x3 so với khoản tiền gần 6.000$ đã nhận.
+
+Dù sao, điều này đã thay đổi khá đáng kể vị thế đầu tư của mình, giúp mình phân bổ vốn ra nhiều khoản và có nhiều vốn hơn để tập trung vào Hold và Trade Spot, thay vì chơi Futures và cuối cùng lỗ hơn 50% so với số dư ban đầu.
+
+…
+
+## 2. Bài học từ ENS
+
+Bài học ở đây là mình còn quá ít kinh nghiệm trong đầu tư Crypto:
+
+- Về yếu tố cơ bản: chưa đánh giá hết tiềm năng về cơ bản của dự án, ai đứng sau nó, tokenomics thế nào, xu hướng dòng tiền có vào không, …
+
+- Vế yếu tố kỹ thuật: cần hiểu giá cần một quá trình tích lũy, tạo đáy theo sóng trước khi đi lên. Trong quá trình xuống sẽ có sóng hồi, rồi lại xuống sâu hơn đến khi không thể tạo đáy thấp hơn nữa. Và khi tăng cũng theo sóng, khi hết target thì chốt hết 80-90% để chờ giá về vùng tích lũy mới.
+
+Crypto là một cơ hội lớn trong đời hoàn toàn có thể giúp mình tăng trưởng vượt bậc, thứ nhất là về tài chính, sau là các phương diện khác để nhận ra thế giới cần phải vận hành khác đi, nơi là quyền làm chủ thực sự là của mỗi cá nhân.
+
+Mình đã bỏ lỡ cơ hội mà lẽ ra NẾU giữ tới giờ có thể được thanh khoản lên đến 20.000-35.000$ (bao gồm 5 ETH ở mức ~ 4.000$/ETH và 217 ENS ở mức ~ 55$/ENS) và hoàn thành trước thời gian nhiều mốc tài chính trong Kế hoạch tài chính 2041 của mình.
+
+Dù sao, sự tiếc nuối làm mình trân trọng từng cơ hội trong thị trường này. Trong khoảng thời gian 4 năm từ bây giờ (tháng 12/2021) đến tháng 12/2025 là lúc mình dành phần lớn thời gian cho thị trường Crypto và Blokchain để đón con sóng tiếp theo từ đợt halving lần thứ 4 của BTC vào thời điểm Q1/2024 và contribute nhiều hơn cho cộng đồng Crypto và Blockchain với tầm nhìn lâu dài của nó về một thế giới phi tập trung hóa. Có CHO thì mới có NHẬN!
