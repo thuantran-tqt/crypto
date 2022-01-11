@@ -8,7 +8,7 @@ module.exports = {
     ],
     'Kiến thức': 
     [
-      'js-overview',,
+      'js-overview',
     ],
     'Phân tích': 
     [
