@@ -5,7 +5,6 @@ sidebar_label: Nhật ký đầu tư 01/12/2021
 ---
 
 <head>
-    <!-- Primary Meta Tags -->
     <title>Nhật ký đầu tư 01/12/2021 - Tháng 11 thắng lợi và bài học về chốt lời | Crypto Hunter Blog</title>
     <meta name="title" content="Nhật ký đầu tư 01/12/2021 - Tháng 11 thắng lợi và bài học về chốt lời | Crypto Hunter Blog">
     <meta name="description"
