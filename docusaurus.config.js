@@ -1,7 +1,7 @@
 module.exports = {
   title: "Crypto Hunter Blog",
   tagline: 'From Zero to Hero on Crypto Journey Investment',
-  url: 'https://crypto/xstarseed.com',
+  url: 'https://crypto.xstarseed.com',
   baseUrl: '/',
   favicon: 'img/favicon-btc-1.png',
   organizationName: 'edwardtran97', // Usually your GitHub org/user name.
@@ -99,7 +99,14 @@ module.exports = {
           //   'https://github.com/facebook/docusaurus/edit/master/website/',
         },
         blog: {
+          feedOptions: {
+            type: 'all',
+            copyright: `Copyright © ${new Date().getFullYear()} Crypto Hunter Blog`,
+          },
+
           showReadingTime: true,
+          readingTime: ({content, frontMatter, defaultReadingTime}) =>
+            defaultReadingTime({content, options: {wordsPerMinute: 300}}),
           // Please change this to your repo.
           // editUrl:
           //   'https://github.com/facebook/docusaurus/edit/master/website/blog/',

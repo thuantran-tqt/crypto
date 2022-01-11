@@ -1,6 +1,6 @@
 ---
 id: nhat-ky-dau-tu-01122021
-title: Nhật ký đầu tư 01/12/2021 - Tháng 11 thắng lợi và bài học vè chốt lời
+title: Nhật ký đầu tư 01/12/2021 - Tháng 11 thắng lợi và bài học về chốt lời
 sidebar_label: Nhật ký đầu tư 01/12/2021
 ---
 
