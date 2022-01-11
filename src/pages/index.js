@@ -62,8 +62,9 @@ function Home() {
   const { siteConfig = {} } = context;
   return (
     <Layout
+      imgUrl={`https://images.unsplash.com/photo-1630569470960-ec1e8c077d6b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80`}
       title={`Homepage`}
-      description="Crypto Hunter Blog - tập hợp những bài học, trải nghiệm và kiến thức về đầu tư Crypto">
+      description="Crypto Hunter Blog - Hành trình tìm kiếm, trải nghiệm cùng những bài học đắt giá trong đầu tư Crypto">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
