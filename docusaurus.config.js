@@ -17,7 +17,7 @@ module.exports = {
         {
           to: 'docs/doc1',
           activeBasePath: 'docs',
-          label: 'Dữ liệu',
+          label: 'Tư liệu',
           position: 'left',
         },
         { 
