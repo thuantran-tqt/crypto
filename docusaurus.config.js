@@ -32,18 +32,6 @@ module.exports = {
         },
       ],
     },
-    coinPrice: {
-      links: [
-        {
-          href: 'https://files.coinmarketcap.com/static/widget/coinMarquee.js',
-          id: 'coinmarketcap-widget-marquee',
-          coins: '1,825,1839,5426,2010,6636,52,3513,8916,6535,3794,1027',
-          currency: 'USD', 
-          theme: 'dark', 
-          transparent: 'false',
-        }
-      ]
-    },
 
     footer: {
       style: 'dark',
