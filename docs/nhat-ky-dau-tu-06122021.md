@@ -1,0 +1,27 @@
+---
+id: nhat-ky-dau-tu-06122021
+title: Nhật ký đầu tư 06/12/2021 - Thị trường crash mạnh và cảm giác tài khoản đang dương sang âm
+sidebar_label: Nhật ký đầu tư 06/12/2021
+---
+
+1. Thị trường crash mạnh 04/12/2021
+
+2. Bài học rút ra
+
+<!--truncate-->
+
+## 1. Thị trường crash mạnh 04/12/2021
+
+Thị trường đã có một cú điều chỉnh mạnh khiến tài khoản mình từ dương 10% chuyển sang âm gần 20% so với vốn gốc. Rốt cuộc thì mình đã và đang trực tiếp trải qua cảm giác lo sợ tột độ vào trưa thứ 7 (04/12) dù trước đó tài khoản vẫn đang dương.
+
+## 2. Bài học rút ra
+
+Có nhiều bài học cần được mình rút ra:
+
+- Dữ liệu không bao giờ nói dối (kể cả dữ liệu giá hay dữ liệu on-chain) đã báo trước giá sẽ có một đợt điều chỉnh mạnh khi kết thúc tháng 11 bằng một cây nến xấu, phân kỳ âm RSI ở BTC và vốn hóa thị trường.
+
+- Việc mình quá hưng phấn khi tài khoản đang tăng (trên danh nghĩa) và sự tham lam đã khiến bỏ qua thực tế sự báo động của dữ liệu. Hệ quả là mình trả giá khi đang âm gần 20% tài khoản (tất nhiên mình chưa cắt lỗ) nhưng nó ảnh hưởng đến tâm lý khá nhiều.
+
+- Crypto vẫn là một cơ hội rất lớn trong cuộc đời khi nhìn về dài hạn. Còn trong ngắn hạn, mình phải tôn trọng dữ liệu, quản lý danh mục đầu tư vừa phải, duy trì tỉ lệ coin và USDT 50/50 hoặc 60/40 trong mọi thời điểm của thị trường.
+
+- Cảm xúc (cả tham lam và sợ hãi) sẽ khiến mình còn trả giá đắt hơn trong những lần điều chỉnh sau này. Vì vậy, dù chưa thể xác định được kết quả cuối cùng sau lần điều chỉnh này là tài khoản của mình sẽ còn bao nhiêu, mình phải thực hành thói quen có lãi là chốt để bảo toàn thành quả, dù cho thị trường đang bullish đến đâu đi chăng nữa. Để trong thị trường bearish, việc chốt lãi dù là bao nhiêu sẽ giúp mình tránh được đợt giảm giá hôm nay!
