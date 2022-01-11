@@ -1,6 +1,9 @@
 ---
 id: nhat-ky-dau-tu-06122021
 title: Nhật ký đầu tư 06/12/2021 - Thị trường crash mạnh và cảm giác tài khoản đang dương sang âm
+description: Thị trường đã có một cú điều chỉnh mạnh khiến tài khoản mình từ dương 10% chuyển sang âm gần 20% so với vốn gốc. Rốt cuộc thì mình đã và đang trực tiếp trải qua cảm giác lo sợ tột độ vào trưa thứ 7 (04/12) dù trước đó tài khoản vẫn đang dương.
+image: https://images.unsplash.com/photo-1630569470960-ec1e8c077d6b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80
+keywords: [bitcoin, crypto, nhật-ký-đầu-tư]
 sidebar_label: Nhật ký đầu tư 06/12/2021
 ---
 

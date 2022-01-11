@@ -1,33 +1,11 @@
 ---
 id: nhat-ky-dau-tu-01122021
-title: Nhật ký đầu tư 01/12/2021 - Tháng 11 thắng lợi và bài học về chốt lời | Crypto Hunter Blog
+title: Nhật ký đầu tư 01/12/2021 - Tháng 11 thắng lợi và bài học về chốt lời
 description: Hôm nay là ngày 01/12, mình đã khép lại tháng 11 với kết quả thu nhập cao nhất trong suốt 24 năm cuộc đời của mình (vượt tháng 10), tăng trưởng hơn 4 lần so với tháng 10
 image: https://images.unsplash.com/photo-1630569470960-ec1e8c077d6b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80
 keywords: [bitcoin, crypto, nhật-ký-đầu-tư]
 sidebar_label: Nhật ký đầu tư 01/12/2021
 ---
-
-<!-- <head>
-    <title>Nhật ký đầu tư 01/12/2021 - Tháng 11 thắng lợi và bài học về chốt lời | Crypto Hunter Blog</title>
-    <meta name="title" content="Nhật ký đầu tư 01/12/2021 - Tháng 11 thắng lợi và bài học về chốt lời | Crypto Hunter Blog">
-    <meta name="description"
-        content="Hôm nay là ngày 01/12, mình đã khép lại tháng 11 với kết quả thu nhập cao nhất trong suốt 24 năm cuộc đời của mình (vượt tháng 10), tăng trưởng hơn 4 lần so với tháng 10.">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://crypto.xstarseed.com/docs/nhat-ky-dau-tu-01122021">
-    <meta property="og:title" content="Nhật ký đầu tư 01/12/2021 - Tháng 11 thắng lợi và bài học về chốt lời | Crypto Hunter Blog">
-    <meta property="og:description"
-        content="Hôm nay là ngày 01/12, mình đã khép lại tháng 11 với kết quả thu nhập cao nhất trong suốt 24 năm cuộc đời của mình (vượt tháng 10), tăng trưởng hơn 4 lần so với tháng 10.">
-    <meta property="og:image" content="https://images.unsplash.com/photo-1630569470960-ec1e8c077d6b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80">
-    <meta property="og:image:alt" content="Nhật ký đầu tư 01/12/2021">
-    <meta property="fb:app_id" content="312288953554749">
-    <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://crypto.xstarseed.com/docs/nhat-ky-dau-tu-01122021">
-    <meta property="twitter:title" content="Nhật ký đầu tư 01/12/2021 - Tháng 11 thắng lợi và bài học về chốt lời | Crypto Hunter Blog">
-    <meta property="twitter:description"
-        content="Hôm nay là ngày 01/12, mình đã khép lại tháng 11 với kết quả thu nhập cao nhất trong suốt 24 năm cuộc đời của mình (vượt tháng 10), tăng trưởng hơn 4 lần so với tháng 10.">
-    <meta property="twitter:image" content="https://images.unsplash.com/photo-1630569470960-ec1e8c077d6b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80">
-
-</head> -->
 
 1. Trở lại với Crypto
 
