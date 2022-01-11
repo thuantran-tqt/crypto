@@ -1,7 +1,7 @@
 ---
 id: nhat-ky-dau-tu-01122021
 title: Nhật ký đầu tư 01/12/2021
-sidebar_label: Nhật ký đầu tư
+sidebar_label: Nhật ký đầu tư 01/12/2021
 ---
 
 1. Trở lại với Crypto
