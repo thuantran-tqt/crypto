@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>Mục đích của Crypto Hunter Blog</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'https://media.istockphoto.com/photos/bitcoin-concept-with-binary-codes-picture-id1305092068?b=1&k=20&m=1305092068&s=170667a&w=0&h=les8_XT0hF2gWWAfpreiyY1kreJFyituhtVMoO6Ah5g=',
     description: (
       <>
         Crypto Hunter Blog là nơi mình viết về những bài học, trải nghiệm đầu tư trong thị trường Crypto. 
@@ -20,7 +20,7 @@ const features = [
 
   {
     title: <>Bài học, trải nghiệm đầu tư</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'https://images.unsplash.com/photo-1630569470960-ec1e8c077d6b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80',
     description: (
       <>
         Chia sẻ những trải nghiệm từ sợ hãi tột độ đến tham lam, phấn khích cùng những bài học 
@@ -31,7 +31,7 @@ const features = [
 
   {
     title: <>Xây dựng cộng đồng</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80',
     description: (
       <>  
         Mình rất hoan nghênh và chào mừng các anh, chị, em - những người mới tham gia đến 
@@ -62,7 +62,6 @@ function Home() {
   const { siteConfig = {} } = context;
   return (
     <Layout
-      imageUrl={`https://images.unsplash.com/photo-1630569470960-ec1e8c077d6b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80`}
       title={`Homepage`}
       description="Crypto Hunter Blog - Hành trình tìm kiếm, trải nghiệm cùng những bài học đắt giá trong đầu tư Crypto">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
