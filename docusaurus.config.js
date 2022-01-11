@@ -15,7 +15,7 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/js-overview.md',
+          to: 'docs/js-overview',
           activeBasePath: 'docs',
           label: 'Tư liệu',
           position: 'left',
