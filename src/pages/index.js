@@ -77,7 +77,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/js-overview')}>
+              to={useBaseUrl('docs/nhat-ky-dau-tu-01122021')}>
               Khám phá nào!
             </Link>
           </div>
