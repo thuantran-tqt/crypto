@@ -1,6 +1,6 @@
 module.exports = {
   title: "Crypto Hunter Blog",
-  tagline: 'From Zero to Hero on Crypto Journey Investment',
+  tagline: 'From Zero to Hero on Crypto Investment Journey',
   url: 'https://crypto.xstarseed.com',
   baseUrl: '/',
   favicon: 'img/favicon-btc-1.png',
