@@ -15,7 +15,7 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/js-overview',
+          to: 'docs/nhat-ky-dau-tu-01122021',
           activeBasePath: 'docs',
           label: 'Tư liệu',
           position: 'left',
@@ -46,12 +46,12 @@ module.exports = {
 
             {
               label: 'Kiến thức',
-              to: 'docs/js-overview',
+              to: 'docs/nhat-ky-dau-tu-06122021',
             },
 
             {
               label: 'Phân tích dữ liệu',
-              to: 'docs/git-blog',
+              to: 'docs/nhat-ky-dau-tu-06122021',
             },
           ],
         },
