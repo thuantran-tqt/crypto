@@ -1,6 +1,6 @@
 ## Đừng để bản thân gục ngã dù cho thị trường có như thế nào!
 
-Thị trường Crypto vẫn đang trong một giai đoạn sideway tích lũy trông khá nhàm chán. Điều này chắc chắn không lấy gì làm dễ chịu để những nhà đầu tư cá nhân nhỏ lẻ - retail investors. 
+Thị trường Crypto vẫn đang trong một giai đoạn sideway tích lũy trông khá nhàm chán. Điều này chắc chắn không lấy gì làm dễ chịu cho những nhà đầu tư cá nhân nhỏ lẻ - retail investors. 
 
 Thực sự thì thị trường luôn tồn tại những pha tăng trưởng, tích lũy, giảm giá rồi lại tích lũy, ... những loop lặp đi lặp lại qua các chu kỳ của bất kỳ một thị trường tài chính nào.
 
