@@ -13,7 +13,7 @@ module.exports = {
         alt: 'Crypto Blog logo',
         src: 'img/favicon-btc-1.png',
       },
-      links: [
+      items: [
         {
           to: 'docs/nhat-ky-dau-tu-01122021',
           activeBasePath: 'docs',
