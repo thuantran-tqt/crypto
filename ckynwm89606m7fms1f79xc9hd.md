@@ -1,6 +1,6 @@
 ## Decentralized vs Centralized
 
-Thị trường tiếp tục giảm trong rạng sáng hôm nay với tin tức về Nga cấm toàn diện hoạt động mining và đầu tư Crypto. Có thể thấy tham vọng của những nhà quản lý tập trung luôn là muốn kiểm soát mọi thứ, và khi không có cách nào quản thì họ sẽ cấm người dân tham gia. Liên tục những tin tức tiêu cực từ FED, Nga, Ấn Độ đang liên tục được tung ra để vùi dập thị trường này. 
+Thị trường tiếp tục giảm trong rạng sáng hôm nay với tin tức về ngân hàng trung ương Nga đề xuất cấm toàn diện hoạt động mining và đầu tư Crypto. Có thể thấy tham vọng của những nhà quản lý tập trung luôn là muốn kiểm soát mọi thứ, và khi không có cách nào quản thì họ sẽ cấm người dân tham gia. Liên tục những tin tức tiêu cực từ FED, Nga, Ấn Độ đang liên tục được tung ra để vùi dập thị trường này. 
 
 Điều đó cũng là lẽ thường tình khi thị trường ngày càng trưởng thành thì sẽ gặp nhiều trắc trở và ngăn cản từ những bên họ cảm thấy sự trưởng thành của thị trường là mối đe dọa với họ. Nó tương tự như việc một ai đó thành công thì bị nhiều người ghét!
 
