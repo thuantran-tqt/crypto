@@ -28,4 +28,4 @@ Giải pháp:
 
 Tóm lại, mình sẽ chỉ tập trung vào tháng 02 lúc này để lướt sóng hồi của thị trường sau 3 tháng liền giảm nhanh và dốc, thị trường hồi là điều tất yếu trong lộ trình mà giá chạy. 
 
-<iframe text-align="center" width="775" height="450" src="https://www.youtube.com/embed/Yka4Jn6qcNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe text-align="center" width="775" height="450" src="https://www.youtube.com/embed/Yka4Jn6qcNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
