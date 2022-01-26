@@ -27,3 +27,5 @@ Giải pháp:
 > Mình sẽ gom các mã Crypto nền tảng đã về vùng hỗ trợ mạnh, đặc biệt có sự hợp lưu thêm với đường trendline, Fibo 0.786, vùng Dow để tận dụng sóng hồi trong giai đoạn tháng 2 của thị trường và sẽ chốt tùy vào chart của từng crypto. Điều này ứng với chiến lược trade Spot trong giai đoạn này. Sau đó khi thị trường tiếp tục rơi thì mình sẽ chuyển sang chiến lược Short Selling với đòn bẩy chỉ 1x. 
 
 Tóm lại, mình sẽ chỉ tập trung vào tháng 02 lúc này để lướt sóng hồi của thị trường sau 3 tháng liền giảm nhanh và dốc, thị trường hồi là điều tất yếu trong lộ trình mà giá chạy. 
+
+<iframe text-align="center" width="775" height="450" src="https://www.youtube.com/embed/Yka4Jn6qcNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
