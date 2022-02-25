@@ -1,6 +1,6 @@
 ## Thấu triệt tường tận hành động, đường đi nước bước của nhà tạo lập thị trường - Market Maker
 
-Mình từng để hastag #bản_kế_hoạch_2030, nhiều người không tin và chế giễu. Mà nói chứ có những lúc rơi vào trường năng lượng thấp mình còn không tin vào chính mình, không tin là mình có thể làm được từ số 0, thậm chí số âm để bắt đầu hành trình đầu tư thực chất đúng nghĩa như những huyền thoại Warren Buffet, Charlie Munger của công ty Berkshire Hathaway, của những tỉ phú; doanh nhân Việt như bác Vượng, cô Thảo, ...
+Mình từng để hastag #bản_kế_hoạch_2030, nhiều người không tin và chế giễu. Mà nói chứ có những lúc rơi vào trường năng lượng thấp mình còn không tin vào chính mình, không tin là mình có thể làm được từ số 0, thậm chí số âm để bắt đầu hành trình đầu tư thực chất đúng nghĩa như những huyền thoại Warren Buffett, Charlie Munger của công ty Berkshire Hathaway, của những tỉ phú; doanh nhân Việt như bác Vượng, ...
 
 Mình từng "ngủ quên" suốt 5 năm từ 2015-2020 trong một giai đoạn "lơ lửng" giữa con đường học vấn chính quy hay đầu tư/kinh doanh. Để rồi những tích tụ của những ngày tháng đó như trạng thái nén của giá #Bitcoin trước khi thực sự bung lụa một cách không thể cản, mình như sống một cuộc sống khác ngay trong kiếp này. Đó là trạng thái hết lòng với công việc, suy nghĩ và hành động cho những mục tiêu với những ước mơ đẹp đẽ mà rất lâu rồi mình đã đánh mất nó. 
 
