@@ -8,7 +8,7 @@ Mình từng vào top 5% học sinh có điểm đậu đại học cao nhất t
 
 Và khi tàu đã vào đường ray thì chỉ có chạy, và bạn đã nhìn thấy tàu hỏa ngoài đời đang chạy mà lỡ không may có vật cản thì sao - bất cứ trở lực (người hay vật hay everything), tàu dù muốn hãm phanh cũng không thể nào tránh một cú va chạm. Nghĩa là khi chúng ta đã thực sự sống và làm việc với một trường năng lượng cao - một trạng thái gọi là flow (dòng chảy) thì không ai có thể cản (dù là họ có muốn hạ bệ/ganh ghét/bêu xấu/...)
 
-Mình đã viết từ năm 2019-2020, dù cho một cơ số người có là chủ tịch/phó chủ tịch một tập đoàn nước ngoài tiềm lực cỡ nào, thì khi đã vượt qua lằn ranh đỏ thì nhất quyết là không thể tha. Và rồi đại dịch COVID ập đến 03/2020 đến hết 2021 đã làm tê liệt hầu hết các ngành dịch vụ, tắt nghẽn chuỗi cung ứng ảnh hưởng trực tiếp đến các người. Nhưng tất cả chưa xong đâu, chưa dừng lại đâu, chưa qua đâu! Tất cả chỉ mới bắt đầu cho sự chuyển dịch không thể đảo ngược (mượn lời cựu tổng thống Trump) từ kinh tế truyền thống hữu hình sang kinh tế ảo vô hình. 
+Mình đã viết từ năm 2019-2020, dù cho một cơ số người có là chủ tịch/phó chủ tịch một tập đoàn nước ngoài tiềm lực cỡ nào, khi đã động vào gia đình mình, khi đã vượt qua lằn ranh đỏ thì nhất quyết là không thể tha. Và rồi đại dịch COVID ập đến 03/2020 đến hết 2021 đã làm tê liệt hầu hết các ngành dịch vụ, tắt nghẽn chuỗi cung ứng ảnh hưởng trực tiếp đến các người. Nhưng tất cả chưa xong đâu, chưa dừng lại đâu, chưa qua đâu! Tất cả chỉ mới bắt đầu cho sự chuyển dịch không thể đảo ngược (mượn lời cựu tổng thống Trump) từ kinh tế truyền thống hữu hình sang kinh tế ảo vô hình. 
 
 Hơn 20 năm nay Internet đã khai mở con đường, giờ đây Crypto đã đang và sẽ mượn lực từ Internet để làm cho kinh tế ảo vô hình ngày càng phát triển. Chu kỳ halving thứ 3 của BTC và uptrend 2020-2021 của toàn thị trường Crypto là minh chứng mà chỉ có người "mù" mới không nhìn ra những cơ hội to lớn - không dừng lại ở làm giàu cá nhân, mà là cơ hội chuyển dịch mô hình kinh tế ở tầm doanh nghiệp đến quốc gia. El Salvador đã xem BTC là tiền tệ hợp pháp. Điều gì sẽ diễn ra khi các quốc gia dự trữ BTC trong ngân sách, như cách mà mấy chục năm nay họ dự trữ USD và Gold - khi BTC là một thứ có tốc độ lạm phát giảm dần và lạm phát = 0% vào 2140!
 
@@ -24,7 +24,7 @@ Và khi VN cởi mở với Crypto, VN chúng ta mạnh hơn (tài chính/con ng
 
 Lạm phát toàn cầu đang phi mã, VN đi sau hậu COVID nên giờ chưa phản ánh vào CPI. Rồi 1-2 quý nữa thôi sẽ phản ánh vào CPI khi giá xăng đã vượt 26k và lãi suất tiền gửi rục rịch tăng => lãi vay tăng; lãi suất cơ bản tăng. 
 
-FED gần như 99.9% chính thức tăng lãi suất vào tháng 03 (0.25 or 0.5%) bắt đầu vào chu kỳ thắt chặt định lượng. Câu chuyện 2014; 2018 tiếp tục lặp lại với các thị trường tài chính. Và đây là lúc phát triển nguồn lực, duy trì dòng tiền dương trong mùa downtrend để chúng ta sở hữu những vị thế cực tốt và rồi đến thời điểm chu kỳ QE với lãi suất thấp ... bùm ... câu chuyện lặp lại vào chu kỳ halving thứ 4 của BTC 2024 và uptrend toàn thị trường Crypto 2024-2025. 
+FED (nhà cái của mọi nhà cái) gần như 99.9% chính thức tăng lãi suất vào tháng 03 (0.25 or 0.5%) bắt đầu vào chu kỳ thắt chặt định lượng. Câu chuyện 2014; 2018 tiếp tục lặp lại với các thị trường tài chính. Và đây là lúc phát triển nguồn lực, duy trì dòng tiền dương trong mùa downtrend để chúng ta sở hữu những vị thế cực tốt và rồi đến thời điểm chu kỳ QE với lãi suất thấp ... bùm ... câu chuyện lặp lại vào chu kỳ halving thứ 4 của BTC 2024 và uptrend toàn thị trường Crypto 2024-2025. 
 
 Rồi chu kỳ halving thứ 5 vào 2028 còn crazy nữa khi hợp lưu với chu kỳ 100 năm đại khủng hoàng 1929-2029. Chúng ta có còn nhớ khủng hoảng tài chính 2007, và trước đó 100 năm - 1907, điều gì đã xảy ra ở hợp chủng quốc Hoa Kỳ?! 
 
@@ -36,9 +36,7 @@ Question:
 
 2 năm rồi mình mới lên bài, không muốn viết trên FB nhiều nên hơi dài dòng. Chúc các anh chị bạn bè FB may mắn, gia tăng tài sản ngay cả trong downtrend, củng cố tầm nhìn vào thị trường Crypto sẽ còn lớn mạnh đến những mức không ai tưởng tượng nổi!
 
-$BTC: $222k (2025) và $1M (2029)
-
-P/s: Để đây đến 2025 và 2029 FB nhắc lại kỷ niệm xem thế nào (nếu FB còn kkk). Muốn lập new ATH thì bắt buộc trả sóng thoái lui - đó là lộ trình giá phải chạy. Mà mọi người đừng tin nha. Đây không phải là lời khuyên đầu tư đâu đó =))
+--- Dự đoán vui giá $BTC: $222k (2025) và $1M (2029)
 
 ***Tất cả chỉ là game - ở đây là money game. Chúng ta phải thấu triệt tường tận hành động, đường đi nước bước của nhà tạo lập thị trường - Market Maker để thắng lợi***
 
