@@ -23,5 +23,3 @@ Và khi mọi thứ trở về mức định giá hấp dẫn (dưới giá tr�
 Nhiều khi thấy mấy group cho kèo hô hào all-in các kiểu thấy buồn cười. Chẳng một nhà đầu tư nào đi all-in hết tài sản vô 1 thị trường, chứ chưa nói vào 1 mã nào đó trong thị trường đó!
 
 Vì vậy để tôi luyện mình trở thành một nhà đầu tư thành công, buộc phải nhìn trước, đi trước và kiên nhẫn chờ thời! 
-
-Còn trading là câu chuyện khác! Setup một tài khoản và được hỗ trợ bởi bot với từ vốn chỉ vài ngàn $, target 0.5-0.75%/ngày, 40% cashout và 60% re-invest trong 20 năm là công thức hiện tại của mình. Mọi người tính thử câu chuyện compound interest (lãi kép) xem, nó crazy không thể tưởng tượng nổi!
