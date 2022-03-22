@@ -22,7 +22,7 @@ Bạn sẽ học bất kỳ điều gì sâu hơn, nhanh hơn, hiệu quả hơn
 
 Và quan trọng là bạn như phục hồi hoàn toàn nguyên khí, tràn đầy năng lượng khi nhận được nguồn năng lượng vô hạn từ vũ trụ, thứ mà khi còn dính mắc, còn xung đột với mình và người thì nguồn năng lượng đó bị triệt tiêu hết rồi còn đâu!
 
-Tất cả chỉ cần bạn "bật nắp", như nhấn nút Trigger để khởi động lại cỗ máy tuyệt hảo trong con người bạn! Sửa đúng 1 dòng code => chương trình chạy theo đúng cách nó được lập trình!
+Tất cả chỉ cần bạn "bật nắp", như nhấn nút Trigger để khởi động lại cỗ máy tuyệt hảo trong con người bạn! Sửa những dòng code lỗi => chương trình chạy theo đúng cách nó được lập trình!
 
 Sau tất cả, bạn hiểu được rằng tất cả con người đều có tự do ý chí lựa chọn đi lên hay đi xuống/đi ngang. Đó là quyền năng lớn lao được Thượng đế trao ban cho mỗi người khi đến thế giới này. Do đó, bạn không còn muốn can dự vào việc của người khác nữa. Vì sao? 
 
