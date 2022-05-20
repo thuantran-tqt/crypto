@@ -14,7 +14,7 @@ Mình đáp: Dạ vâng. Con sinh ra với bản năng chinh phục và khao kh�
 
 Thượng đế: vậy con chấp nhận đánh đổi, trả giá những gì, nỗ lực đến đâu?
 
-Mình: con đã chấm dứt những mối quan hệ yếu kém, kéo lùi và bàn ra trong đời con. Con chấp nhận mất xxx$ từ năm 2017 để học hỏi và trải nghiệm thị trường. 
+Mình: con đã chấm dứt những mối quan hệ yếu kém, kéo lùi và bàn ra trong đời con. Con chấp nhận mất xxxxx$ từ năm 2017 để học hỏi và trải nghiệm thị trường. 
 
 Thượng đế: cái giá con trả vẫn quá rẻ. Nhiêu đó chưa là gì đâu con!
 
