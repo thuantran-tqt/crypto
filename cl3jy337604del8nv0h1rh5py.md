@@ -20,7 +20,7 @@ Nhà giao dịch trong ngày chuyên nghiệp chú tâm vào chất lượng t�
 
 Nhà giao dịch trong ngày chuyên nghiệp hiểu chỉ cần 1-2 lệnh mỗi ngày thành công là hoàn tất mục tiêu trong ngày
 
-Nhà giao dịch trong ngày chuyên nghiệp chỉ cần tập trung vào chất lượng từng setup một, chờ thời cơ chín muồi để ấn út Enter vào lệnh (với lệnh market), thay vì liên tục vào những setup kém chất lượng dẫn đến giá chạm dừng lỗ liên tục!
+Nhà giao dịch trong ngày chuyên nghiệp chỉ cần tập trung vào chất lượng từng setup một, chờ thời cơ chín muồi để ấn nút Enter vào lệnh (với lệnh market), thay vì liên tục vào những setup kém chất lượng dẫn đến giá chạm dừng lỗ liên tục!
 
 Nhà giao dịch trong ngày chuyên nghiệp hiểu tùy vào từng giai đoạn thị trường khác nhau (up/down/sideway), nhà giao dịch tùy chỉnh phương án và kế hoạch nương theo dòng chảy của thị trường. Chứ không phải "bắt", "hy vọng", "kỳ vọng" thị trường chạy theo ý mình!
 
