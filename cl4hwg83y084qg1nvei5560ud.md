@@ -42,3 +42,5 @@ Chưa nói trong hành trình lên $100k, $500k hay $1M đó, $BTC phải trải
 
 *Chúc mọi người may mắn!*
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PjXBRlSbuYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
