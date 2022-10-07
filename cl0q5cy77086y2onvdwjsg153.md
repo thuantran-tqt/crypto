@@ -1,9 +1,1 @@
-## Hiểu về khủng hoảng tài chính, các sự kiện Thiên nga đen và Luật chơi của money game
-
-Chào anh chị và các bạn, 
-
-Để có thể kiếm được tiền, xây dựng khối tài sản và thành công trong đầu tư tài chính, chúng ta cần trang bị cho mình kiến thức về kinh tế và tài chính ở tầm vĩ mô, hiểu về dòng chảy của tiền, quy luật vận hành của cuộc chơi tài chính này. Và trong Podcast tuần này, Vinium Capital sẽ mang để chủ đề: 
-
-Hiểu về khủng hoảng tài chính, các sự kiện Thiên nga đen và Luật chơi money game
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0sesrS4qmKS35dkhNHvDsl?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+IyMgSGnhu4N1IHbhu4Ega2jhu6duZyBob+G6o25nIHTDoGkgY2jDrW5oLCBjw6FjIHPhu7Ega2nhu4duIFRoacOqbiBuZ2EgxJFlbiB2w6AgTHXhuq10IGNoxqFpIGPhu6dhIG1vbmV5IGdhbWUKCkNow6BvIGFuaCBjaOG7iyB2w6AgY8OhYyBi4bqhbiwgCgrEkOG7gyBjw7MgdGjhu4Mga2nhur9tIMSRxrDhu6NjIHRp4buBbiwgeMOieSBk4buxbmcga2jhu5FpIHTDoGkgc+G6o24gdsOgIHRow6BuaCBjw7RuZyB0cm9uZyDEkeG6p3UgdMawIHTDoGkgY2jDrW5oLCBjaMO6bmcgdGEgY+G6p24gdHJhbmcgYuG7iyBjaG8gbcOsbmgga2nhur9uIHRo4bupYyB24buBIGtpbmggdOG6vyB2w6AgdMOgaSBjaMOtbmgg4bufIHThuqdtIHbEqSBtw7QsIGhp4buDdSB24buBIGTDsm5nIGNo4bqjeSBj4bunYSB0aeG7gW4sIHF1eSBsdeG6rXQgduG6rW4gaMOgbmggY+G7p2EgY3Xhu5ljIGNoxqFpIHTDoGkgY2jDrW5oIG7DoHkuIFbDoCB0cm9uZyBQb2RjYXN0IHR14bqnbiBuw6B5LCBWaW5pdW0gQ2FwaXRhbCBz4bq9IG1hbmcgxJHhu4MgY2jhu6cgxJHhu4E6IAoKSGnhu4N1IHbhu4Ega2jhu6duZyBob+G6o25nIHTDoGkgY2jDrW5oLCBjw6FjIHPhu7Ega2nhu4duIFRoacOqbiBuZ2EgxJFlbiB2w6AgTHXhuq10IGNoxqFpIG1vbmV5IGdhbWUKCjxpZnJhbWUgd2lkdGg9IjU2MCIgaGVpZ2h0PSIzMTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvLWd0eEhhR25mZXciIHRpdGxlPSJZb3VUdWJlIHZpZGVvIHBsYXllciIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+
