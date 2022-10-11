@@ -1,1 +1,14 @@
-IyMgQ+G6rXAgbmjhuq10IHRo4buLIHRyxrDhu51uZyBRNC8yMDIyLgoKVGjDoWkgxJHhu5kgdsOgIHTDom0gdGjhur8gZ+G6r24gYsOzIGPDuW5nIHRo4buLIHRyxrDhu51uZyBDcnlwdG8gMjAyMi0yMDI1CgpGRUQgduG6q24gdMSDbmcgbMOjaSBzdeG6pXQuIE5nw6JuIGjDoG5nIG5ow6Agbsaw4bubYyBWTiBjxaluZyBi4bqvdCDEkeG6p3Ugbmjhuq1wIGN14buZYyEKCkNo4bupbmcga2hvw6FuLCBDcnlwdG8gduG6q24gdHJvbmcgZG93bnRyZW5kIG5oxrAgZOG7sSBsaeG7h3UgdOG7qyDEkeG6p3UgMjAyMi4KCktoaSBuw6BvIGRvd250cmVuZCBz4bq9IGvhur90IHRow7pjPyBDaMO6bmcgdGEgY+G6p24gxrB1IHRpw6puIGfDrCB2w6BvIGzDumMgbsOgeT8KClZpZGVvIG7DoHkgc+G6vSBsw6Agbmjhu69uZyB0w6JtIHPhu7EsIGNoaWEgc+G6uyBjw6FjaCBtw6xuaCBzdXkgbmdoxKkgduG7gSBuZ2jhu4EgZ2lhbyBk4buLY2ggdsOgIHhlbSBuw7MgbmjGsCBt4buZdCBjw7RuZyB2aeG7h2MgbmdoacOqbSB0w7pjLiBU4bqnbSBuaMOsbiB0aOG7iyB0csaw4budbmcgMjAyMi0yMDI1CgoKPGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9La1ZoWmNqdTI1dyIgdGl0bGU9IllvdVR1YmUgdmlkZW8gcGxheWVyIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4=
+# Cập nhật thị trường Q4/2022.
+
+Thái độ và tâm thế gắn bó cùng thị trường Crypto 2022-2025
+
+FED vẫn tăng lãi suất. Ngân hàng nhà nước VN cũng bắt đầu nhập cuộc!
+
+Chứng khoán, Crypto vẫn trong downtrend như dự liệu từ đầu 2022.
+
+Khi nào downtrend sẽ kết thúc? Chúng ta cần ưu tiên gì vào lúc này?
+
+Video này sẽ là những tâm sự, chia sẻ cách mình suy nghĩ về nghề giao dịch và xem nó như một công việc nghiêm túc. Tầm nhìn thị trường 2022-2025
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KkVhZcju25w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
