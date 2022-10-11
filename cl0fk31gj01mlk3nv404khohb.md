@@ -1,1 +1,3 @@
-IyMgSGnhu4N1IHbhu4EgY2h1IGvhu7Mga2luaCB04bq/IHbDoCB0w6BpIGNow61uaCDEkeG7gyBjw7MgdGjhu4MgdGjhuq9uZyBs4bujaSB0cm9uZyDEkeG6p3UgdMawIENyeXB0bwoKPGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9jU3dRUmxBZ2diQSIgdGl0bGU9IllvdVR1YmUgdmlkZW8gcGxheWVyIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4=
+# Hiểu về chu kỳ kinh tế và tài chính để có thể thắng lợi trong đầu tư Crypto
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cSwQRlAggbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
