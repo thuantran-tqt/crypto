@@ -1,0 +1,9 @@
+# Decentralized vs Centralized
+
+Thị trường tiếp tục giảm trong rạng sáng hôm nay với tin tức về ngân hàng trung ương Nga đề xuất cấm toàn diện hoạt động mining và đầu tư Crypto. Có thể thấy tham vọng của những nhà quản lý tập trung luôn là muốn kiểm soát mọi thứ, và khi không có cách nào quản thì họ sẽ cấm người dân tham gia. Liên tục những tin tức tiêu cực từ FED, Nga, Ấn Độ đang liên tục được tung ra để vùi dập thị trường này. 
+
+Điều đó cũng là lẽ thường tình khi thị trường ngày càng trưởng thành thì sẽ gặp nhiều trắc trở và ngăn cản từ những bên họ cảm thấy sự trưởng thành của thị trường là mối đe dọa với họ. Nó tương tự như việc một ai đó thành công thì bị nhiều người ghét!
+
+Thị trường xét về bản chất cũng là một thực thể được tạo ra bởi nhiều người, và khi thị trường Crypto vốn dĩ nằm ngoài sự quản lý của chính phủ thì họ không thể chịu nổi. Hoặc là họ cố gắng đưa thị trường vào khuôn khổ pháp lý như cách Mỹ đang làm, hoặc họ cấm toàn diện như TQ hồi hè 2021 hay Nga bây giờ. Họ chỉ có thể chọn lựa những thích nghi linh hoạt hoặc nói không hoàn toàn. Lại tựa như chiến lược chống dịch giữa zero-Covid hay sống chung với virus nhỉ! Đến giờ thì chúng ta thấy đa số toàn cầu bao gồm VN đi theo con đường nào rồi, và nước nào theo zero-Covid thì ai cũng biết. 
+
+COVID virus hay thị trường Crypto là những đối tượng mà các chính phủ rất đau đầu đối phó. Vấn đề không phải là bên nào thắng, bên nào thua. Chúng ta càng muốn thắng virus, virus sẽ càng biến đổi để tấn công ta. Và thị trường Crypto cũng không phải là ngoại lệ. Hồi 2017-2018 mình từng nghĩ rằng rồi thì Decentralized sẽ thắng Centralized, nhưng đâu có cần thiết phải thắng thua kiểu có anh thì không có tôi như vậy. Chúng ta không thể dùng chiến tranh để chấm dứt một cuộc chiến tranh khác. Giải pháp chỉ cần là chấp nhận để cùng sống chung mà thôi!
