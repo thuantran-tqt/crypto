@@ -1,4 +1,4 @@
-## Hiểu về khủng hoảng tài chính, các sự kiện Thiên nga đen và Luật chơi của money game
+# Hiểu về khủng hoảng tài chính, các sự kiện Thiên nga đen và Luật chơi của money game
 
 Chào anh chị và các bạn, 
 
@@ -6,4 +6,4 @@ Chào anh chị và các bạn,
 
 Hiểu về khủng hoảng tài chính, các sự kiện Thiên nga đen và Luật chơi money game
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0sesrS4qmKS35dkhNHvDsl?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-gtxHaGnfew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
